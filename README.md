@@ -1,1 +1,1 @@
-Deployed Site: https://simmr-18uzg8kf0.now.sh/
+Deployed Site: https://simmr.now.sh
